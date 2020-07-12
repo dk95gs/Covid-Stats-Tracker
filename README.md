@@ -1,3 +1,4 @@
+# Demo the app here: https://covid-data-visualizer.vercel.app/
 ## Getting Started
 First, install dependancies
 `npm install`
