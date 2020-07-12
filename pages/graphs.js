@@ -90,7 +90,7 @@ export default function Graphs() {
                         {countries.map((item)=>{
                             return <button className="btn btn-outline-primary" onClick={()=>{formateLineGraphData(item.code)}}>{item.name}</button>
                         })}
-                        <Button onClick={()=>{formateLineGraphData()}}>Click</Button>
+                       
                    </Col>
                 </Row>
             </main>
